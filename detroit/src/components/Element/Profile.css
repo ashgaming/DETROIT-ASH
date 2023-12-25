@@ -1,0 +1,22 @@
+.title{
+    width: 100%;
+}
+.Profile-Con{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+}
+
+.Img-Con{
+    width: 30%;
+    height: 200px;
+    background-color: aqua;
+    box-shadow: 2px 2px 2px black;
+    margin: 10px;
+    padding: 2px;
+}
+
+.details{
+    padding: 20px;
+    
+}

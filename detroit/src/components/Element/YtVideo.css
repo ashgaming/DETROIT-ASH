@@ -1,0 +1,14 @@
+.ytVideoUP{
+    width: 92%;
+}
+
+.ytVideoDown{
+    width: 100%;
+}
+
+.ytVideoCon{
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+
+}
