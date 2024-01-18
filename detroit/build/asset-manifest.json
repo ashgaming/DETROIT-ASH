@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DETROIT-ASH/static/css/main.0a9c4687.css",
-    "main.js": "/DETROIT-ASH/static/js/main.0377f910.js",
+    "main.js": "/DETROIT-ASH/static/js/main.980a6f7e.js",
     "static/js/787.11d1613f.chunk.js": "/DETROIT-ASH/static/js/787.11d1613f.chunk.js",
     "index.html": "/DETROIT-ASH/index.html",
     "main.0a9c4687.css.map": "/DETROIT-ASH/static/css/main.0a9c4687.css.map",
-    "main.0377f910.js.map": "/DETROIT-ASH/static/js/main.0377f910.js.map",
+    "main.980a6f7e.js.map": "/DETROIT-ASH/static/js/main.980a6f7e.js.map",
     "787.11d1613f.chunk.js.map": "/DETROIT-ASH/static/js/787.11d1613f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a9c4687.css",
-    "static/js/main.0377f910.js"
+    "static/js/main.980a6f7e.js"
   ]
 }

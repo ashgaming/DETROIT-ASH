@@ -15,7 +15,8 @@ function App() {
       <Router>
       <Navbar />
         <Routes>
-            <Route path="/" element={<Layout/>} />
+            <Route path="/" element={<Layout/>} exact/>
+            <Route path="/DETROIT-ASH" element={<Layout/>} exact/>
             <Route path='/contact' element={<Contact/>} />
         </Routes>
         <Footer/>
